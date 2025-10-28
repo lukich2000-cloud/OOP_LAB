@@ -1,0 +1,14 @@
+C:\Users\Dmitriy\source\repos\Laba\bin\Debug\net9.0\Laba.exe
+C:\Users\Dmitriy\source\repos\Laba\bin\Debug\net9.0\Laba.deps.json
+C:\Users\Dmitriy\source\repos\Laba\bin\Debug\net9.0\Laba.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\Laba\bin\Debug\net9.0\Laba.dll
+C:\Users\Dmitriy\source\repos\Laba\bin\Debug\net9.0\Laba.pdb
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.dll
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\refint\Laba.dll
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.pdb
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\Laba.genruntimeconfig.cache
+C:\Users\Dmitriy\source\repos\Laba\obj\Debug\net9.0\ref\Laba.dll
